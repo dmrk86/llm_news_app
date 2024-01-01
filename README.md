@@ -6,7 +6,7 @@ Quickly provide the news highlights you need in **real-time** from  *Currents Ne
 
 See how the tool works:
 
-![News highlights demo](https://drive.google.com/file/d/1kNnq7BdRVpUqRdZb6wlQDFYJdx5IpUj_/view?usp=sharing)
+![News highlights demo](https://drive.google.com/file/d/1kNnq7BdRVpUqRdZb6wlQDFYJdx5IpUj_/view)
 
 This tool accesses multiple news articles from *Currents News* and based on the provided **keyword**,  summerizes the related content
 
