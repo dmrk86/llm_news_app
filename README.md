@@ -1,15 +1,11 @@
 # News highlights
 
-Quickly provide the news highlights you need in **real-time** from  *Currents News API*, that curates news articles from various countries, over past four years by monitoring thousands of news domain.
+Quickly provide the news highlights you need in **real-time** from  *Currents News API*, which curates news articles from various countries, over the past four years by monitoring thousands of news domains.
 
 ## Demo
 
 See how the tool works:
-
-file:///home/debasis/Videos/Screencasts/news_channel.webm
-
-
-[![News highlights demo](https://drive.google.com/file/d/1kNnq7BdRVpUqRdZb6wlQDFYJdx5IpUj_/view)]
+[![News channel.webm](https://github.com/dmrk86/llm_news_app/assets/152592874/e772d4a7-45f3-4456-9143-dcf76733e6f0)
 
 This tool accesses multiple news articles from *Currents News* and based on the provided **keyword**,  summarizes the related content
 
