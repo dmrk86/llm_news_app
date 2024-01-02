@@ -48,6 +48,7 @@ MODEL_LOCATOR=gpt-3.5-turbo
 MAX_TOKENS=200
 TEMPERATURE=0.0
 Information_path="./information.txt"
+currentsAPI_key = {currentsAPI_key}
 ```
 
 Replace Information_path with your local Reasearch folder path and optionally, you customize other values.
