@@ -5,7 +5,7 @@ This application quickly provides the news highlights you need in **real-time** 
 ## Demo
 
 See how the tool works:
-[![News channel.webm](https://github.com/dmrk86/llm_news_app/assets/152592874/e772d4a7-45f3-4456-9143-dcf76733e6f0)
+[! News channel.webm](https://github.com/dmrk86/llm_news_app/assets/152592874/e772d4a7-45f3-4456-9143-dcf76733e6f0)
 
 This tool accesses multiple news articles from *Currents News* and based on the provided **keyword**,  summarizes the related content
 
