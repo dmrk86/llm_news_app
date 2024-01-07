@@ -1,11 +1,11 @@
 # News highlights
 
-Quickly provide the news highlights you need in **real-time** from  *Currents News API*, which curates news articles from various countries, over the past four years by monitoring thousands of news domains.
+This application quickly provides the news highlights you need in **real-time** from  *Currents News API*, which curates news articles from various countries, over the past four years by monitoring thousands of news domains. The application first collects the new articles and uses LLMs to organize and create informative content for the end users. This application helps the users get interested news content instead of unnecessary news content. 
 
 ## Demo
 
 See how the tool works:
-[![News channel.webm](https://github.com/dmrk86/llm_news_app/assets/152592874/e772d4a7-45f3-4456-9143-dcf76733e6f0)
+[! News channel.webm](https://github.com/dmrk86/llm_news_app/assets/152592874/e772d4a7-45f3-4456-9143-dcf76733e6f0)
 
 This tool accesses multiple news articles from *Currents News* and based on the provided **keyword**,  summarizes the related content
 
