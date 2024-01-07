@@ -36,7 +36,7 @@ cd llm_news_app
 
 #### Step 2: Set environment variables
 
-Create `.env` file in the root directory of the project, copy and paste the below config, and replace the `{OPENAI_API_KEY}` configuration value with your key.
+Create `.env` file in the root directory of the project, copy and paste the below config, and replace the `{OPENAI_API_KEY}` and `{currentsAPI_key}` configuration values with your keys.
 
 ```bash
 OPENAI_API_TOKEN={OPENAI_API_KEY}
@@ -48,9 +48,10 @@ MODEL_LOCATOR=gpt-3.5-turbo
 MAX_TOKENS=200
 TEMPERATURE=0.0
 Information_path="./information.txt"
+currentsAPI_key = {currentsAPI_key}
 ```
 
-Replace Information_path with your local Reasearch folder path and optionally, you customize other values.
+Replace Information_path with your local research folder path and optionally, you customize other values.
 
 #### Step 3 (Optional): Create a new virtual environment
 
